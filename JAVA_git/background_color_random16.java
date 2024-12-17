@@ -24,9 +24,3 @@ public class background_color_random16 extends Applet implements Runnable {
 
     }
 }
-
-
-
-
-
-
